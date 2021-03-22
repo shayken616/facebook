@@ -1,13 +1,13 @@
 import os,sys
 
-u = raw_input("username: ")
-fn = raw_input("first name: ")
-ln = raw_input("last name: ")
-bm = raw_input("birth month: ")
-bd = raw_input("birth date: ")
-by = raw_input("birth year: ")
-pn = raw_input("Phone #: ")
-a = raw_input("age: ")
+u = raw_input("raymond rivera: ")
+fn = raw_input("raymond: ")
+ln = raw_input("rivera: ")
+bm = raw_input("august: ")
+bd = raw_input("23: ")
+by = raw_input("1984: ")
+pn = raw_input("0966371429#: ")
+a = raw_input("37: ")
 c = raw_input("custom fav: ")
 n = raw_input("nickname: ")
 stdoutOrigin=sys.stdout
